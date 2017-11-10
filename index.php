@@ -17,7 +17,7 @@ switch ($x)  {
          echo "I rolled a two!";
            break;
        case "3":
-         echo "I a rolled a three";
+         echo "I rolled a three";
            break;
        default:
          echo "You neither rolled 1, 2, nor 3!";
