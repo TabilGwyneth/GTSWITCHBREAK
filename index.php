@@ -4,7 +4,7 @@
 
 <?php
 
-$x = rand(1,4);
+$x = rand(1,6);
 
 echo $x;
 echo "<br>";
